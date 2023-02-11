@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Sultan Altamash Ali !
-- 👀 I’m a Software Engineer at @Atlassian.
+- 👀 I’m a Software Engineer at Atlassian.
 - I am interested in software and web development.
 - I have 5+ years of experience on working with Javascript, React, NodeJS, Typescript and React Native.
 - 🌱 I’m currently learning Go, Tailwind, upgrading React Skills, System design and many more.
